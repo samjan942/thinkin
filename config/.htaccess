@@ -1,4 +1,4 @@
 <Files constants.php>
     Order allow,deny
-    Deny from all
+    allow from all
 </Files>
